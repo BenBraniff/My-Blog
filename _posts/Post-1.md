@@ -14,6 +14,6 @@ I'm very excited, but I'm not sure where to take this. I want to structure the f
 
 Here is a photo of my blogging evironment...
 
-<img src="Screenshot-1.png" alt="My Blogging Environment Photo 1">
+<img src="assets/Screenshot-1.png" alt="My Blogging Environment Photo 1">
 
 This is all a work in progress. I'm building the website as I'm writing this blog. 
